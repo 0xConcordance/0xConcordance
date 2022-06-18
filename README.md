@@ -1,5 +1,4 @@
 ### Hi there 👋
-#### Currently Learning:
 
 <!--
 **0xConcordance/0xConcordance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
