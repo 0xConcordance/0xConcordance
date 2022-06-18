@@ -1,10 +1,6 @@
 ### Hi there 👋
 #### Currently Learning:
-- React
-- React Native
-- Solidity
-- Python
-- Javascript
+
 <!--
 **0xConcordance/0xConcordance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
